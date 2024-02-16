@@ -62,7 +62,7 @@
 | 56 | [SD]ASTROAOD351 | epg.pw | <https://epg.pw/stream/5d2b406b588d91d90858f1d65f2ce50e5d3354b41c9052d22acf08c7fde0ff55.ctv> |
 | 57 | [SD]ASTRO AOD 353 | epg.pw | <https://epg.pw/stream/1cf8cc19c6d4312eebaf79ba3f271dc09a0438500346cbd2f8d56a2c087d173a.ctv> |
 | 58 | [VGA]Astro Ria | epg.pw | <https://epg.pw/stream/7d015cdb6c785c972333bae9e2029f64448f3363fb86d157f537a799add840e9.ctv> |
-| 59 | [SD]Astro Supersports 2 | epg.pw | <https://epg.pw/stream/84d8e734020c28dc21d52bbea9a47bd371bbf6e3f5bfe0e3d09f2112de4814bc.ctv> |
+| 59 | [SD]Astro Supersports 2 | epg.pw | <https://epg.pw/stream/608f1a1781c4a3d0dbe327daf519dce3c128df554a89113d2e04ffcaa3e3c9db.ctv> |
 | 60 | [SD]Astro Supersports 3 | epg.pw | <https://epg.pw/stream/1a411c5dbf9e75568246f7a50053c55fff719dd0bffb3d0d79823de7abad9f85.ctv> |
 | 61 | [SD]astrotv | epg.pw | <https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8> |
 | 62 | [BD]AstroSupersports4 | epg.pw | <https://epg.pw/stream/0e84910c1bb9161c2b5ed0d29a249a81e7adf90b0176886a3061e56d9fc8bd5e.ctv> |
@@ -1616,7 +1616,7 @@
 | 1610 | [BD]舟山新闻综合 | epg.pw | <https://epg.pw/stream/ca9727bb9f7ba55539357b8eb0f25c3497e325c9d53e2530818df07e213e3699.m3u8> |
 | 1611 | [BD]荆门新闻综合 | epg.pw | <https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8> |
 | 1612 | [BD]华视 | epg.pw | <https://epg.pw/stream/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8> |
-| 1613 | [BD]华语电视3 | epg.pw | <https://epg.pw/stream/353082a76519c026043f3911199f07e25f3c51e7ace07e1b37312dbe35ffb4ab.m3u8> |
+| 1613 | [VGA]华语电视3 | epg.pw | <https://epg.pw/stream/f9e42adc79e4a9bdae8cb0e53a84ee5015e5c9d9caff8f1f157880efadebe1e9.m3u8> |
 | 1614 | [SD]万州影视文艺 | epg.pw | <https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8> |
 | 1615 | [HD]蓬安新闻综合 | epg.pw | <https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8> |
 | 1616 | [SD]卫星剧场 | epg.pw | <https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8> |
@@ -1670,4 +1670,4 @@
 | 1664 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1665 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Fri Feb 16 2024 02:19:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Feb 16 2024 04:16:53 GMT+0000 (Coordinated Universal Time)**
