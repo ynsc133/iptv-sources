@@ -1316,7 +1316,7 @@
 | 1310 | [HD]us - golf channel | epg.pw | <https://epg.pw/stream/5c2c16293e862f1ae507363b28da3b49022954646c7e70845fc1492f0da57a97.ctv> |
 | 1311 | [HD]usa - bbc america hd | epg.pw | <https://epg.pw/stream/c0129ec8c6781879d1dfef58a1a4a254f2877cc14dba5c11b352da5e33fc7ca1.ctv> |
 | 1312 | [HD]usa - espn 2 | epg.pw | <https://epg.pw/stream/404f02a65c8df46d41723c544798fc76699e372effa6839328f8aa99284fa0ae.ctv> |
-| 1313 | [HD]usa - food network | epg.pw | <https://epg.pw/stream/8ec517b1f7bcf5380fa643b815f09a97bc23a4bed7cc1507af6f642f1fe5327e.ctv> |
+| 1313 | [HD]usa - food network hd | epg.pw | <https://epg.pw/stream/ae6a1ea373fafe2864876dbc7e77d2277c32fcb0bbfda698408c3a32a5fa7cdf.ctv> |
 | 1314 | [BD]usa - pbs kids | epg.pw | <https://epg.pw/stream/5ff8900aa2c4a1215df1abb6f8d34e8e7dfefc3da23da8c489fe5ade068e4190.ctv> |
 | 1315 | [HD]usa - univision | epg.pw | <https://epg.pw/stream/774da079a782b1e37991f8ef1554cee17f173a97b69c0ea4b95df182a4bead53.ctv> |
 | 1316 | [BD]utv | epg.pw | <https://epg.pw/stream/6c59da3acfc2a335cb2ef290db3611cd6b2e83e5ee9c061852f96365f2afb28d.m3u8> |
@@ -1742,4 +1742,4 @@
 | 1736 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 | 1737 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Feb 21 2024 04:17:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 21 2024 06:18:43 GMT+0000 (Coordinated Universal Time)**
