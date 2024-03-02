@@ -244,4 +244,4 @@
 | 238 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 | 239 | [BD]龙江卫视[ipv6] | epg.pw | <https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8> |
 
-Updated at **Sat Mar 02 2024 18:18:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 02 2024 20:13:43 GMT+0000 (Coordinated Universal Time)**
