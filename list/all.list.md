@@ -53,7 +53,7 @@
 | 47 | [HD]ASTRO AURA | epg.pw | <https://epg.pw/stream/8dbb61a703797f809ff0b3a9cbff2f96361879b9b7b5d82a3ccdce46bf5ea18e.ctv> |
 | 48 | [SD]astro cricket | epg.pw | <https://epg.pw/stream/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv> |
 | 49 | [HD]ASTRO OASIS | epg.pw | <https://epg.pw/stream/eec84990db19c307be0663b9f89c3cc59cb8c5c5918b077de94e35e0e8b00550.ctv> |
-| 50 | [HD]Astro华丽台 | epg.pw | <https://epg.pw/stream/8247e3685f3e501b98ecb24e7846aa52826183899498184bcb096c0db8512b55.ctv> |
+| 50 | [HD]ASTRO 华丽台 | epg.pw | <https://epg.pw/stream/6c95b182761423595a78bbd9b23b928ab810c40eeb8022c9a9f68eb9a1c00afc.ctv> |
 | 51 | [HD]axn | epg.pw | <https://epg.pw/stream/af7be3c3e9c5bd28da8a82ce4f6d919a8f67a27e1ce2a695f2e02667db10adb9.m3u8> |
 | 52 | [HD]AL JAZEERA | epg.pw | <https://epg.pw/stream/868a9a9ae304407a0a073ce91ecd0959616f2a4ec59901171af9c2ab20dc92f4.ctv> |
 | 53 | [VGA]al maaref | epg.pw | <https://epg.pw/stream/ccdef82555f1f96e5aaa13493c38a15e71ea3c68ff18e97da70341abe688f13e.m3u8> |
@@ -601,7 +601,7 @@
 | 595 | [HD]canela kids | epg.pw | <https://epg.pw/stream/9f45985fb4fba0d736a9305d5ad433e1bb79018deead8215f260c9ca4427446a.m3u8> |
 | 596 | [VGA]capital tv | epg.pw | <https://epg.pw/stream/dc1166504303e87cb8edec04abf453fe5c03b45ff578474019e31365533137c9.m3u8> |
 | 597 | [VGA]caracol | epg.pw | <https://epg.pw/stream/e00faf8cece8cee3cb52a8ed71a7ab5b5d63a1215c88b0beb065c338c0533efd.m3u8> |
-| 598 | [VGA]cartoon network | epg.pw | <https://epg.pw/stream/8bb59bfec30eecd83925b3fa3786e772de243038fb4d6f6427671cc0e9f82b4c.m3u8> |
+| 598 | [VGA]cartoon network (japan) | epg.pw | <https://epg.pw/stream/629d0b4255407d3dcca860941f2991fa58a6963e377e2669a3578e26a4fcf988.m3u8> |
 | 599 | [HD]cartoonito | epg.pw | <https://epg.pw/stream/0a93dd24f9b140d3d713408454f307fb806ae81aca6b17953629225426189516.ctv> |
 | 600 | [HD]catholic tv | epg.pw | <https://epg.pw/stream/5cf197ea062993452fe142adea0d967929ecb7ec73db8547bafc5313314e2282.m3u8> |
 | 601 | [SD]cbc | epg.pw | <https://epg.pw/stream/37701aa7343fd39f25fdc85520dade73bca2a361817a290d04457613754d81bf.m3u8> |
@@ -1088,7 +1088,7 @@
 | 1082 | [HD]pequeradio | epg.pw | <https://epg.pw/stream/87cd5b3679e27c8666d539ecd111f9342781f8dbcd58c9e92297013056cfec38.m3u8> |
 | 1083 | [HD]persiana hd | epg.pw | <https://epg.pw/stream/9a31d1029c0956e9ca905d90f8fd09e737fdc88ba1c74fabe2ad3338e1bfea3d.m3u8> |
 | 1084 | [BD]pet club tv | epg.pw | <https://epg.pw/stream/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
-| 1085 | [HD]playboy | epg.pw | <https://epg.pw/stream/b4c831f47be376bbf6ba19942d8103be699c329c8c26fdb26d0ef083a87e0a7a.ctv> |
+| 1085 | [HD]playboy | epg.pw | <https://epg.pw/stream/472d3ba01b7c397deb7e04490166564a46570c73ca7907bd075dc4b220ab99eb.m3u8> |
 | 1086 | [BD]plovdivska pravoslavna tv | epg.pw | <https://epg.pw/stream/6987877ba2922821fb75b50587b8a281e1e63d0c8738223d4e172cb0e4a8dcd2.m3u8> |
 | 1087 | [HD]polsat | epg.pw | <https://epg.pw/stream/1828a6ec05f028453a448df9c6cec4b31d1543263d39cb89bb20fafd5bc7bb64.m3u8> |
 | 1088 | [HD]polsat 2 | epg.pw | <https://epg.pw/stream/8203a0cae6226a27707941fd2c3953393ce3a61bf8a47ec5d8c91173ad9c4a51.m3u8> |
@@ -1889,4 +1889,4 @@
 | 1883 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 1884 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Mon Mar 04 2024 14:13:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 04 2024 16:19:26 GMT+0000 (Coordinated Universal Time)**
