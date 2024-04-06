@@ -759,7 +759,7 @@
 | 753 | [HD]cablenoticias | epg.pw | <https://epg.pw/stream/6e712685a0db98e831d308c4ab35482290c93c61e81362b4ffb833fe388a984a.m3u8> |
 | 754 | [SD]cali tv | epg.pw | <https://epg.pw/stream/40015e65dc9b3ce5c1e6f5f552ec83daee96d05699a94e007453f6911f3ed059.m3u8> |
 | 755 | [HD]can news | epg.pw | <https://epg.pw/stream/5402a0174b2a8f8714c024555a4e818fa25a6e9a478c240927f1a3616c393941.m3u8> |
-| 756 | [BD]canal  family | epg.pw | <https://epg.pw/stream/2db7f4cb09fcefc7778a1ee4f91133b82a6d5807f4432671192c63504d92c3ae.ctv> |
+| 756 | [VGA]canal  family | epg.pw | <https://epg.pw/stream/2db7f4cb09fcefc7778a1ee4f91133b82a6d5807f4432671192c63504d92c3ae.ctv> |
 | 757 | [HD]canal 1 | epg.pw | <https://epg.pw/stream/7b71f159e60bbe3e2a0f7750242d44b1d46dcc1df94d26335dad27de64ea30a0.m3u8> |
 | 758 | [VGA]canal 10 es | epg.pw | <https://epg.pw/stream/456f76414c06980e1e834dac179a38be15d9633ef4b515ab0f75cb7f6619caa9.m3u8> |
 | 759 | [BD]canal 2 | epg.pw | <https://epg.pw/stream/af14509f1ea1f9fbd1b8d715122d6c23399aca6ec063882ab3b2fda6d5d5c59d.m3u8> |
@@ -2360,4 +2360,4 @@
 | 2354 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2355 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Sat Apr 06 2024 01:02:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 06 2024 02:20:10 GMT+0000 (Coordinated Universal Time)**
