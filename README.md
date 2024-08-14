@@ -32,7 +32,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
-| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 136 | - |
+| fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 125 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | - |
 | ~~fanmingming/live v6~~(Backup Only) | [fmml_v6.m3u](/fmml_v6.m3u) <br> [fmml_v6.txt](/txt/fmml_v6.txt) | [List for ~~fanmingming/live v6~~(Backup Only)](/list/fmml_v6.list) | update failed | ✅ |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 245 | - |
@@ -64,9 +64,9 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
 | 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | update failed |
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | update failed |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Wed Aug 14 2024 04:24:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 14 2024 06:45:55 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
