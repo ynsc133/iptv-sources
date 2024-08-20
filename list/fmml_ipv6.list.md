@@ -129,4 +129,4 @@
 | 123 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 124 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Tue Aug 20 2024 04:21:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 20 2024 06:24:40 GMT+0000 (Coordinated Universal Time)**
