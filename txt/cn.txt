@@ -135,7 +135,7 @@
 [BD]康巴卫视高清,https://stream1.freetv.fun/af2dac39927b833bcb5a0370424a07acf05f48fd8a33421bb934e39ba4a3cf92.ctv
 [SD]厦门卫视,https://stream1.freetv.fun/a927444efa3d55d3d42d4d80fc9dd565caeae93fe0328d6e078367c2120df3d4.m3u8
 [HD]广元综合,https://stream1.freetv.fun/e115ad1ad555af4231de24edf51b85a967f85cd17d76c84f28198770e7e9600a.m3u8
-[VGA]广州法治,https://stream1.freetv.fun/08e4a3ee7ab79cec8f00e11315fde20a279334a41eed7533899aa42f1e07b2de.ctv
+[HD]广州法治,https://stream1.freetv.fun/08e4a3ee7ab79cec8f00e11315fde20a279334a41eed7533899aa42f1e07b2de.ctv
 [HD]广州综合,https://stream1.freetv.fun/91ae862b8b3ce7a58fb837900e84984ae323afa312699797c3eb21ac4ff060df.m3u8
 [HD]广州综合,https://stream1.freetv.fun/988a45d8ba3a124c3192437a87b76a828c88c529a2b24037a8f3213b6094aecd.ctv
 [BD]广东公共高清,https://stream1.freetv.fun/07ac37bc1597316ee12edac848ed951cf917e99698d53c734b0c78d98a432be2.m3u8
@@ -239,6 +239,8 @@
 
 其它,#genre#
 [BD]cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.m3u8
+[VGA]cctv法语,https://stream1.freetv.fun/ad1197ab2f3ff0c598ad85bb45587afa2adccbe20e2d5fb21c32480a20c14dd5.ctv
+[VGA]cctv阿拉伯语,https://stream1.freetv.fun/7f15651627ffa00ae6cfc4fc6432aa48f436117b6a4c3f8de586a5c044523d95.ctv
 [BD]cctv10,https://stream1.freetv.fun/a069427ccbbbce55eac15cf669f292774fdba54d938286ecaa0dfcb7209fa3c7.m3u8
 [BD]cctv17,https://stream1.freetv.fun/e708db23c72b7ff54d1311af9347bd7a3d20831bc1554f0aa3adfd27beb3510f.m3u8
 [BD]cctv7,https://stream1.freetv.fun/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.ctv
