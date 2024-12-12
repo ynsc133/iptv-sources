@@ -171,4 +171,4 @@
 | 165 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 166 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **Thu Dec 12 2024 01:38:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 12 2024 03:02:45 GMT+0000 (Coordinated Universal Time)**
