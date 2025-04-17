@@ -304,7 +304,7 @@
 | 298 | [BD]cctv4 | stream1.freetv.fun | <https://stream1.freetv.fun/ce75cb26c3c92bd5f97e003c8bb34c3c3b81be5bfd2e9261d854a5b0f3bbb61a.ctv> |
 | 299 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/d375740fd4efa498a08a30f7856f08b0be6201fec9d5d8b5f4915f40cbc844d1.m3u8> |
 | 300 | [BD]cctv5-体育 | stream1.freetv.fun | <https://stream1.freetv.fun/8c0a0439191a3ba401897378bc2226a7edda1e571cb356ac7c7f4c15f6a2f380.m3u8> |
-| 301 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/1067dc6800e55cf49cc47e04b334913e4b358691f7025524cfc2ec929f83351c.m3u8> |
+| 301 | [BD]cctv5 | stream1.freetv.fun | <https://stream1.freetv.fun/57f6d93bd0efecdc5e7211d3da89e618bad97e16adbda2da38b2a7efc39582ad.m3u8> |
 | 302 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/8156da2fe8060843daeeda9f71f11a274b5bca4a1e75bbd2762fac959fffce22.ctv> |
 | 303 | [BD]cctv5 plus | stream1.freetv.fun | <https://stream1.freetv.fun/60a57ea259b425dce30d72645626504992c07fae5a9d2efa7b0a5fd236086e23.m3u8> |
 | 304 | [BD]cctv6 | stream1.freetv.fun | <https://stream1.freetv.fun/74f09b564503549683e4d1da5f68a95f4d34337c3b48004415eec78a1ec0f489.m3u8> |
@@ -713,7 +713,7 @@
 | 707 | [SD]kanal b | stream1.freetv.fun | <https://stream1.freetv.fun/e42071aa47c6398891dcb53e4ed541e161fec290dfa4f9afe3e75bf87208b702.ctv> |
 | 708 | [SD]kanal 15 | stream1.freetv.fun | <https://stream1.freetv.fun/7899f2df8590c49a7c0de81fe4b2ee660f19a6f21a3ed9f1ca4bd45ad102a016.ctv> |
 | 709 | [SD]kansai tv | stream1.freetv.fun | <https://stream1.freetv.fun/f04d26c2a1b5c84a58056df1dc6282b223db794988811352c80df5ebb7e8d049.m3u8> |
-| 710 | [SD]kerman | stream1.freetv.fun | <https://stream1.freetv.fun/c160f058974a432fc823f80b02021cb90ade6d6d70f194823eca847e82a0ff05.m3u8> |
+| 710 | [VGA]kerman | stream1.freetv.fun | <https://stream1.freetv.fun/c160f058974a432fc823f80b02021cb90ade6d6d70f194823eca847e82a0ff05.m3u8> |
 | 711 | [BD]kika | stream1.freetv.fun | <https://stream1.freetv.fun/1e6140ff0740849cc57a4568d0319d928a37fca0eb5030ef93a5b86667d279ea.m3u8> |
 | 712 | [HD]kino tv | stream1.freetv.fun | <https://stream1.freetv.fun/bb777f44d28dc4287327e7eb61879148439fc65dab637932e54eb76bb627fd67.m3u8> |
 | 713 | [HD]kiss kiss tv | stream1.freetv.fun | <https://stream1.freetv.fun/b2f5a9c86f0355aae0a3fda24336b26a8a3a5bdc6394e2a1990a667bd256e2e2.m3u8> |
@@ -2000,4 +2000,4 @@
 | 1994 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8> |
 | 1995 | [BD]연합뉴스tv | stream1.freetv.fun | <https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Apr 17 2025 01:40:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 17 2025 03:03:40 GMT+0000 (Coordinated Universal Time)**
