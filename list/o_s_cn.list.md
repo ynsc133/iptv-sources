@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**
+# List for **iptv.org stream China**(Rollback)
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -11,7 +11,7 @@
 | 5 | Bread TV面包台 (720p) | video.bread-tv.com:8091 | <https://video.bread-tv.com:8091/hls-live24/online/index.m3u8> |
 | 6 | BRTV Kaku Childrens Channel | IPv4 直链 | <http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8> |
 | 7 | BRTV 北京卫视 (1080p) | go.bkpcp.top | <http://go.bkpcp.top/mg/bjws> |
-| 8 | CCTV-10 (576i) | cdn4.skygo.mn | <https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8> |
+| 8 | CCTV-10 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv10hd.m3u8> |
 | 9 | CCTV-11 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv11hd.m3u8> |
 | 10 | CCTV-12 (720p) | IPv4 直链 | <http://74.91.26.218:82/live/cctv12hd.m3u8> |
 | 11 | CCTV-13 (1080p) | cdn3.163189.xyz | <https://cdn3.163189.xyz/163189/cctv13> |
@@ -375,4 +375,4 @@
 | 369 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 370 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Tue Jun 09 2026 07:51:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 09 2026 11:18:13 GMT+0000 (Coordinated Universal Time)**
