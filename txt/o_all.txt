@@ -724,6 +724,7 @@ An Giang TV 1 (1080p),https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 Anadolu Net TV (1080p),https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 Andorra TV (1080p),https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
 Antena 1 (Romania),https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+Antena 1 (Romania) HD (1440p),https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
 Antena 3,https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
 Antena 3 Internacional (1080p),http://38.252.238.18:8000/play/a04a/index.m3u8
 Antena 7 (480p),https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
@@ -8235,6 +8236,7 @@ Bahrain Sports 1 (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngr
 Bahrain Sports 2 (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 Band Sports (1080p),https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 Barca TV,https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+beIN Sports USA (576p),https://tvsen6.aynaott.com/beinsports/index.m3u8
 beIN SPORTS XTRA (1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN SPORTS XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 BEK Sports West (720p),https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
