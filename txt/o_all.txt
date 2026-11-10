@@ -191,6 +191,10 @@ Girlfriends Films,https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 Gold Star,https://moviethls.wns.live/hls/stream.m3u8
 Golden Premier 2 (1080p),http://200.57.28.141:8540/play/a0lo
 Golden Premier (1080p),http://200.57.28.141:8540/play/a0ln
+Goldmines 2 (576p),https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+Goldmines (576p),https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+Goldmines Bollywood (576p),https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+Goldmines Movies (576p),https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 Grand Cinema,https://gcinemahls.wns.live/hls/stream.m3u8
 Gravitas Movies (1080p),https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 GREAT! movies (1080p),https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
@@ -976,6 +980,7 @@ Canal 9 Cosespu,https://video2.lhdserver.es/canal9cosespu/live.m3u8
 Canal 9 La Union (1080p),http://45.167.2.101:8000/play/a0r5/index.m3u8
 Canal 9 Resistencia (720p),http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 Canal 10 (Costa Rica) (720p) [Not 24/7],https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+Canal 10 Goya (1080p),https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 Canal 11 (Costa Rica) (720p),http://45.5.117.188:8000/play/a02w/index.m3u8
 Canal 11 TuTV (349p),https://stream.giostreaming.app/canal11/canal11.m3u8
 Canal 12 (El Salvador) (576p),http://186.33.26.18:8000/play/a0nw/index.m3u8
@@ -1700,6 +1705,7 @@ La Reina TV (360p),https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/p
 La Ruta TV,https://streamunoapp.com:3983/live/larutatvlive.m3u8
 La Sultana del Este TV (720p) [Not 24/7],https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 La TR3 Marsala (720p),https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+La Tremenda TV (1080p),https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 Laguna TV (1080p) [Not 24/7],https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 Lana TV (576p),https://cdn.streamlane.tv/hls/ltv/master.m3u8
 Lancelot TV (404p),https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
@@ -1708,7 +1714,7 @@ Lang Son TV (720p),https://stream.langsontv.vn/live/285c78da0c246524c90917842f8d
 Langstraat TV (720p),https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
 Lansingerland TV (720p),https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 Larivision TV (720p) [Not 24/7],https://live.larivision.net/livelan/live.m3u8
-Las Estrellas (1080p),http://45.189.151.7:8000/play/a07s
+Las Estrellas (1080p),https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 Las Estrellas Latin America (1080p),http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 Las Vegas Tonight with Dale Davidson (1080p),https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 Latele (1080p),http://190.128.214.97:64333/play/a03i/index.m3u8
@@ -2999,7 +3005,7 @@ MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 Moy mir (720p),https://moymir.ru/hls/onair.m3u8
 NS Home Shopping (720p),https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 NS Shop+ (720p),https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-OnTV4U (1080p),https://stirr.b-cdn.net/stirr/playlist.m3u8
+OnTV4U (1080p),https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8
 QVC2 (720p),https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 QVC3 (1080p),https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 QVC (Germany) (720p),https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
@@ -3679,6 +3685,7 @@ Vevo Pop (1080p),https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-
 Vevo R&B (1080p),https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 Vevo Retro Rock (1080p),https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 Vevo True School Hip-Hop,https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+VH1 (1080p),http://23.237.104.106:8080/USA_VH1/index.m3u8
 Video Mix TV (1080p),https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 Video Rola (1080p),https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 Video Tour Channel,https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
@@ -3695,9 +3702,9 @@ Vos y TV (720p) [Not 24/7],https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 VOX Music TV (1080p),http://92.114.85.87:8016/play/a00a/index.m3u8
 Wah Punjabi (720p),https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 Wavez FM,https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+WOX TV (1080p),https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 WVCU-LP (1080p),https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 X 102.7 FM (720p),https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
-X Level Media (1080p),https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 XITE 90's Throwback (1080p),https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 XITE (720p),https://xite-rakuten.amagi.tv/playlist.m3u8
 XITE Classic Country (720p),https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
@@ -5014,12 +5021,12 @@ Metro TV (Argentina) (720p),https://streamtv12.ddns.net:5443/LiveApp/streams/193
 meWATCH LIVE 1 (1080p),https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 MHZ (720p),https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 Midnight Pulp (1080p),https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
+Mireasa+ (480p),https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 Mit plastikmareridt,https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
 MiTV (1080p),http://190.128.214.97:64333/play/a02w/index.m3u8
 MK Six (576p),https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 Monara TV (720p) [Not 24/7],https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 MONO 29,https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
-More4 (360p),https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 More TV Drama,https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 Movistar Plus (576p),http://45.4.1.201:8000/play/a19y/index.m3u8
 MRTV Entertainment,https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
@@ -8251,6 +8258,7 @@ DAZN 4 (540p),http://23.237.104.106:8080/DAZN_4/index.m3u8
 DAZN 5 (720p),http://23.237.104.106:8080/DAZN_5/index.m3u8
 DAZN Combat (684p),https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 DAZN Darts x Pluto TV,https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+DAZN F1,https://tvorb.net/ZTV/6918-live.m3u8
 DAZN Heldinnen x Pluto TV,https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 DD Sports (1080p),https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 DD Sports HD (1080p),https://cdn.pishow.tv/ott/live/1161/master.m3u8
@@ -8474,6 +8482,7 @@ SOS Kanal Plus (720p),https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanal
 Sport1 HD,http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
 Sport2 HD,http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 Sport (Kyrgyzstan) (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+Sport Extra HD,http://92.180.26.103:80/stream/93/index.m3u8
 Sport Total FM (576i),https://livesptfm.com/SPTFM/Live/playlist.m3u8
 Sport TV (1080p),http://178.124.179.122:8080/SportTV/mpegts
 Sport+ Qazaqstan (1080p),https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
@@ -8521,6 +8530,7 @@ TNT Sports 4,http://37.49.224.5/stream/4/index.m3u8
 TNT Sports (Argentina),http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 TNT Sports (Argentina) SD (576p),http://181.78.79.131:8000/play/a0mo
 TNT Sports Premium ArgentinaHD (1080p),http://181.78.79.131:8000/play/a0q9
+TNT Sports Premium HD (1080p),http://205.235.6.29:8000/play/a104/index.m3u8
 Tour Spot TV (1280p) [Not 24/7],https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 TR Sport (480p),https://livetr.teleromagna.it/mia/live/playlist.m3u8
 Trace Sport Stars (1080p),https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -9347,15 +9357,6 @@ DLTV 12 (1080p),https://cdn-live.dltv.ac.th/dltv12.m3u8
 DLTV 13 (1080p),https://cdn-live.dltv.ac.th/dltv13.m3u8
 DLTV 14 (1080p),https://cdn-live.dltv.ac.th/dltv14.m3u8
 DLTV 15 (1080p),https://cdn-live.dltv.ac.th/dltv15.m3u8
-E-Vidya 4 (576p),http://103.72.101.252:8080/live/406.m3u8
-E-Vidya 5 (576p),http://103.72.101.252:8080/live/407.m3u8
-E-Vidya 6 (576p),http://103.72.101.252:8080/live/408.m3u8
-E-Vidya 7 (576p),http://103.72.101.252:8080/live/404.m3u8
-E-Vidya 8 (576p),http://103.72.101.252:8080/live/409.m3u8
-E-Vidya 9 (576p),http://103.72.101.252:8080/live/410.m3u8
-E-Vidya 10 (576p),http://103.72.101.252:8080/live/411.m3u8
-E-Vidya 11 (576p),http://103.72.101.252:8080/live/1410.m3u8
-E-Vidya 12 (576p),http://103.72.101.252:8080/live/1532.m3u8
 EBC General Education (720p) [Not 24/7],https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 EBS 1TV (400p) [Not 24/7],https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 EBS 2TV (400p) [Not 24/7],https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
@@ -10368,7 +10369,7 @@ Culture;Sports,#genre#
 LRT Plius (1080p),http://stream.mcquack.net/353/index.m3u8
 
 Movies;Shop,#genre#
-Magnificent Movies Network,https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+Magnificent Movies Network,https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 
 Culture;Education;Entertainment,#genre#
 Manas TV (1080p),http://212.42.111.152:8080/hls/manas.m3u8
@@ -10527,7 +10528,7 @@ Documentary;Entertainment,#genre#
 The Nest (1080p),https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
 Classic;Shop,#genre#
-Timeless TV,https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+Timeless TV,https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
 
 Auto;Entertainment,#genre#
 Top Gear (720p),https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
